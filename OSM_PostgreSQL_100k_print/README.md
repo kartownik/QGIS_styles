@@ -9,11 +9,11 @@ GitHub https://github.com/openstreetmap/osm2pgsql
 
 Styles are prepered to create printed maps in scales about 1:100 000. Styles were made for Poland, so they can bring unexpected results in other countries (especially in administrative boundaries).
 Layers order:
-![Example] (/images/layers_order1.png)
+!(https://github.com/kartownik/QGIS_styles/blob/master/OSM_PostgreSQL_100k_print/images/layers_order1.jpg)
 
 Example:
-![Example](/images/layers_order1.png)
+!(https://github.com/kartownik/QGIS_styles/blob/master/OSM_PostgreSQL_100k_print/images/lines.jpg)
 
 
-![Example](/images/polygons.png)
+!(https://github.com/kartownik/QGIS_styles/blob/master/OSM_PostgreSQL_100k_print/images/polygons.jpg)
 
